@@ -1,0 +1,8 @@
+Hello Team
+
+1. Kindly run the npm i in the package.json path
+2. look the config.txt, which is used to dynamically add the URL for scrapping 
+3. run npm start
+4. As of now I made the puppeeter as headless true. So it silently do the action.
+5. If we need to do any authentication like MFA, we can run headless as false and do while scrapping.
+
